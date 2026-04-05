@@ -4,7 +4,7 @@
  
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=300&section=header&text=Website%20Development&fontSize=90&animation=fadeIn&fontAlignY=38" width="100%">
+
 
 
 
