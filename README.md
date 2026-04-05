@@ -7,7 +7,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Mohamed Guinani</h1>
+<h1 align="center">Hi There👋, I'm Mohamed Guinani</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-guinani" target="_blank">
