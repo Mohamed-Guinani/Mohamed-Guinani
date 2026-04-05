@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="Gemini_Generated_Image_lmlqmjlmlqmjlmlq.png" alt="Web Dev Compass" width="800">
+  <img src="Gemini_Generated_Image_lmlqmjlmlqmjlmlq.png" alt="Web Dev Compass" width="auto">
   
-  > "Building a faster, better, more accessible web, one commit at a time."
+ 
 </div>
 
 
