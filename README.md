@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Gemini_Generated_Image_lmlqmjlmlqmjlmlq.png" alt="Web Dev Compass" width="100%">
+  <img src="header.png" alt="Web Dev Compass" width="100%">
   
  
 </div>
