@@ -1,6 +1,6 @@
 <div align="center">
   <img src="header.png" alt="Web Dev Compass" width="100%">
-  <img src="https://readme-typing-svg.herokuapp.com?   font=Fira+Code&size=25&pause=1000&color=42A5F5&center=true&vCenter=true&width=500&lines=Analyzing+the+stack...;Building+the+future.;Code+is+poetry.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=42A5F5&center=true&vCenter=true&width=500&lines=Analyzing+the+stack...;Building+the+future.;Code+is+poetry.">
  
 </div>
 
