@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="header.png" alt="Web Dev Compass" width="800">
+  <img src="Gemini_Generated_Image_lmlqmjlmlqmjlmlq.png" alt="Web Dev Compass" width="800">
   
   > "Building a faster, better, more accessible web, one commit at a time."
 </div>
