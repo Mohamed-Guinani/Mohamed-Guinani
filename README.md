@@ -1,6 +1,8 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=200&section=header&text=Welcome%20to%20my%20Workspace%20🚀&fontSize=50&animation=fadeIn&fontColor=ffffff" width="100%" />
-</p>
+<div align="center">
+  <img src="header.png" alt="Web Dev Compass" width="800">
+  
+  > "Building a faster, better, more accessible web, one commit at a time."
+</div>
 
 
 <p align="center">
